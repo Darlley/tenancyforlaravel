@@ -1,0 +1,1 @@
+<img src="{{ asset('/img/leadszapp-desktop.png') }}" alt="Logo" class="h-10">

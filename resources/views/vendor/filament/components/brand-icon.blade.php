@@ -1,0 +1,1 @@
+<img src="{{ asset('/img/leadszapp-mobile.png') }}" alt="Icon" class="h-full w-full object-contain" />
